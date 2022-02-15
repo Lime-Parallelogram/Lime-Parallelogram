@@ -16,6 +16,11 @@ Welcome, I am a computing enthusiast studing for A-Levels. I am studying **mathe
 > **GitHub Repo -** https://github.com/A-Level-Personal-Code-Collab/PirateGame  
 **Live Website -** https://pirategame.live/
 
+### open-DPS - 🔌
+> **Language -** _Python_  
+> **Overview -** After building a variable output power supply to aid with my electronics projects, I decided to investigate the included bluetooth caperbillities. Disatisfied with the manufacture's software offering, I went in search of an open-source alternative and found [this repo](https://github.com/Haschtl/PyDPS). Unfortunately this UI was also not to my taste and it also utilises the now deprecated `rfcomm` command. This project aims to implement all of my requirements and provide a base for others to work from.  
+> **Learning -** This has tought me a great deal about creating GUIs using PyQT. In the abscence of any pre-built libraries for such a specialist application, this is also an amazing opportunity to learn more about the low-level communication protocols that are in use in setup like this. 
+
 ## 🌱 Developing / Learning
 🪟 PyQT - Working on learning how to create python GUI
 
