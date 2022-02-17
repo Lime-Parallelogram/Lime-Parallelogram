@@ -9,7 +9,7 @@ Welcome, I am a computing enthusiast studing for A-Levels. I am studying **mathe
 > **Language -** _Python, Web (HTML,CSS,JS)_   
 **Project Length -** _6 months_  
 >
-> **Overview -** In an effort to gain experience in collaborative development, this project is an attempt to remaster one of our favourie pen-and-paper games from school maths lessons. Pirate Game Live is a flask-based online game. The game is largely luck-based game that invites users to place items in a grid. A random grid sqaure is selected and the users can use the items in those squares against other users. For example, the user chooses a target for their 'steal' and they take over the target's money.  
+> **Overview -** In an effort to gain experience in collaborative development, this project is an attempt to remaster one of our favourie pen-and-paper games from school maths lessons. Pirate Game Live is a flask-based online application. The game is largely luck-based and works by at inviting users to place items in a grid. A random grid sqaure is selected and the user must use the items in those squares against other users. For example, the user chooses a target for their 'steal' and they take over the target's money.  
 >
 > **Learning -** This project has been an amazing opportunity to not only learn more about flask and improve my knowledge of webpage and web-languages but also to develop my knowledge of deploying software and websites to the internet using a VPS. The largest learning curve came with working with the live communication. This was achived using websockets which allow each of the clients to play live games with other players in their game.  
 >
@@ -18,8 +18,8 @@ Welcome, I am a computing enthusiast studing for A-Levels. I am studying **mathe
 
 ### open-DPS - 🔌
 > **Language -** _Python_  
-> **Overview -** After building a variable output power supply to aid with my electronics projects, I decided to investigate the included bluetooth caperbillities. Disatisfied with the manufacture's software offering, I went in search of an open-source alternative and found [this repo](https://github.com/Haschtl/PyDPS). Unfortunately this UI was also not to my taste and it also utilises the now deprecated `rfcomm` command. This project aims to implement all of my requirements and provide a base for others to work from.  
-> **Learning -** This has tought me a great deal about creating GUIs using PyQT. In the abscence of any pre-built libraries for such a specialist application, this is also an amazing opportunity to learn more about the low-level communication protocols that are in use in setup like this. 
+> **Overview -** After building a variable output power supply to aid with my electronics projects, I decided to investigate the included bluetooth caperbillities. Disatisfied with the manufacture's software offering, I went in search of an open-source alternative and found [this repo](https://github.com/Haschtl/PyDPS). Unfortunately the provided UI was also not to my taste and the bluetooth implementation relies upon the now deprecated `rfcomm` command. This project aims to satisfy all of my needs for such an application and provide a base for others to develop from.  
+> **Learning -** This has tought me a great deal about creating GUIs using PyQT and using the QTDesigner to simplify this process. In the abscence of any pre-built libraries for such a specialist application, this is also an amazing opportunity to learn more about the low-level bluetooth communication protocols that are in use in setup like this. 
 
 ## 🌱 Developing / Learning
 🪟 PyQT - Working on learning how to create python GUI
