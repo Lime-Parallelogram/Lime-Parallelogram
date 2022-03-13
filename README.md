@@ -22,7 +22,7 @@ Welcome, I am a computing enthusiast studing for A-Levels. I am studying **mathe
 > **Learning -** This has tought me a great deal about creating GUIs using PyQT and using the QTDesigner to simplify this process. In the abscence of any pre-built libraries for such a specialist application, this is also an amazing opportunity to learn more about the low-level bluetooth communication protocols that are in use in setup like this. 
 
 ### pyIR - 🎛️
-> **Language -** _python_  
+> **Language -** _Python_  
 > **Overview -** Stemming from a YouTube video I made a few years back, I am working on a python library that can be used in conjunction with the Raspberry Pi an an IR Receiver in order to identify which buttons have been pressed on an infrared remote.  
 > **Learning -** I have learned a lot about making a module that other people could use. I have also learned about hardware protcols that are used by different types of IR Remotes.
 
