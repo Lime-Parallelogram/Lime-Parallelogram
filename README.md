@@ -26,11 +26,21 @@ Welcome, I am a computing enthusiast studing for A-Levels. I am studying **mathe
 > **Overview -** Stemming from a YouTube video I made a few years back, I am working on a python library that can be used in conjunction with the Raspberry Pi an an IR Receiver in order to identify which buttons have been pressed on an infrared remote.  
 > **Learning -** I have learned a lot about making a module that other people could use. I have also learned about hardware protcols that are used by different types of IR Remotes.
 
+### octoClock - 🕘
+> **Language -** _Python_  
+> **Overview -** The OctoClock is another hardware project that I have been working on developing software for. It uses a Raspberry Pi and addressable LEDs to display, on the face of a wall clock, the remaining time of print jobs on my 3D Printer.  
+> **Learning -** I have learned a great deal about making versatile software and interacting with APIs such as the OctoPrint API.  
+
+## 🧑🏾‍🤝‍🧑🏼 Future Collaboration
+I am hoping that I can contribute to the _paperless_ project in order to add some of my own ideas to this amazing peice of software that I use to keep my school work filed in an orderly manor.
+
 ## 🌱 Developing / Learning
-🪟 PyQT - Working on learning how to create python GUI
+🪟 PyQT - Working on learning how to create python GUI  
+🕸️ Django - Creating python websites
 
 ## 📪 Socials / Contact :
 🐦 Twitter - https://twitter.com/LimeParallel1
+🔗 LinkedIn - https://www.linkedin.com/in/will-hall-a64874236/
 
 <!--
 **Lime-Parallelogram/Lime-Parallelogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
