@@ -12,6 +12,7 @@ Computer Science Student @ The University of York 🎓, Computing enthusiast �
 >
 > **Learning -** This project is in its early stages at the moment but a major point focus for development is getting the data itself. The systems that the university uses for energy management do not offer a public API so data has to be scaped from the user-facing pages. This will also be my first time working with InfluxDB.
 >
+> **SystemsLinkAPI GitLab Repo -** https://gitlab.com/Lime-Parallelogram/systemslink-python
 
 ### Grocy Checkout Partner - 🥕
 > **Stack -** _Arduino C++_  
